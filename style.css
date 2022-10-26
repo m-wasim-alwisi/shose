@@ -117,7 +117,7 @@ nav ul li a:hover{
     clip-path: circle(50% at bottom ); 
   }
   .content .image img {
-    width: 80%;
+    width: 100%;
   }
 } 
   
@@ -132,7 +132,7 @@ nav ul li a:hover{
 justify-content: center;
 }
 .content .image img {
-  width: 70%;
+  width: 100%;
 }
 }
 @media (max-width:360px){
